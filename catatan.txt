@@ -1,0 +1,11 @@
+extensi yang diinstall:
+1. tabnine
+2. prettier
+3. path intellisense
+4. npm intellisense
+
+
+ssh github : /c/Users/johan/.ssh/id_rsa
+
+ssh public (cat ~/.ssh/id_rsa.pub) :
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCmLP8C3q7h5wTGUF1tiUSxmcRzNRjx23I/B+Kruw2y3mgZhSJ1zyxFIaDepQ5smHauA6bYK3hi+6WismM8/VTroC3C9pLuiK4OHMdtRqfDUajZJ0kV8zIy24KhaMbOex6J1NaOD1qZfYdkalmsAr+nI7RBCgQ7DlymX4RhlbIBM+rbefR5WMDu+xIr+5+rcFryoGUvQKQol0lipf6E4RXh4GUjlq9+06kf3K2shOiwZ9efFlMeF3muJtAXWxd1GKD9lZiuo1wW7BAPHvNai66t0T7Cx6ZfIMwwz8RmASXnCrOMU6h9pdm5f3hOiNcsW6KJ2OwGMTuam0mIPyo8NcFeWA+mJ/Zoo7G8SHs+c/9hKc1dBUjO5wCgkzTO9n2fz/0b9n529Tsmjn37IBVsthEaTTdtmgsuV7sLi9UoPM54wx0H7T2Tsaz8Ic2xfWED63uKAggXp+YSXdizZyAZdy1gYUANtMIuWYYGrfW2UIp6yrLY1jKmaZt+wwYK2Oz9ylHnJuXiLdCkfE4PBJ8co7ifcNA8rK7fn9XYBELqgBAFYD9RVBabetRVDxYmQkpkQ7RY8a1ye4/4SxeXvqQ/ljquRY6urMxoIyAOpWknW5qyV6zb/1MR7znDynV+2V4o+mw7B76rnsIid+xY1LI/MMwYGvzfJMhwRtmFrWDkwZ6QHw== johanisdengen@gmail.com
