@@ -5,6 +5,33 @@ extensi yang diinstall:
 4. npm intellisense
 
 
+<<GENERATE SSH>>
+
+1. ssh-keygen -t rsa -b 4096 -C "email yang terdaftar di github"
+
+2. Klik enter pada dialog "Enter file ..." - "enter same paraphrase again"
+
+3. Muncul key fingerprint & key's randomart image
+
+4. Buat ssh dengan "cat ~/.ssh/id_rsa.pub"
+
+5. Muncul ssh public
+
+6. Cek ssh public di Git GUI -> Help -> Show SSH Key
+
+
+** add clone
+git remote add origin https://github.com/jpdengen/sesi1.js.git
+
+** git to master to main 
+-> git fetch
+-> git checkout main
+-> git branch
+-> git add * (add semua)
+-> git status
+-> git commit -m "(descripe commit)"
+-> git push 
+
 ssh github : /c/Users/johan/.ssh/id_rsa
 
 ssh public (cat ~/.ssh/id_rsa.pub) :

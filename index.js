@@ -1,5 +1,8 @@
 const nama = "Johanis Dengen";
-let hobi = "bulutangkis";
-let data = "Sesi 1";
-console.log(`${nama} ${hobi}`);
+
+function getNama(){
+    return nama;
+}
+
+console.log(getNama());
 
